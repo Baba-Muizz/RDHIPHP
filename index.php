@@ -81,6 +81,7 @@ $(document).ready(function(){
 <header>
 <div id="wrapper" class="banner-bg">
     	<div class="wrap">
+            <a href="index.html">Main Page</a>
         	<div class="tops" align="center">                                       
                    <div class="left wow fadeInDown">
                 	<a href="index.php">  
